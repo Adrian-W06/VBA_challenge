@@ -35,18 +35,7 @@ After looping through all sheets, it creates a new sheet named **Overall Summary
 
 ---
 
-## 📷 Screenshots (To Add)
 
-Include screenshots of results for each sheet showing:
-
-- Calculated columns: `Quarterly Change`, `Percentage Change`, and `Total Volume`
-- Per-sheet summaries beneath those columns
-- Final `Overall Summary` sheet
-
-You can take screenshots by:
-- Pressing `Windows + Shift + S` (Snipping Tool) on Windows
-- Using `Command + Shift + 4` on macOS
-- Then paste or attach the images in your documentation
 
 ---
 
